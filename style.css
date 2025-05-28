@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color:#D9D9D9 ;
+}
+
+nav a{
+    font-size:24px ;
+    color:#006957 ;
+    text-decoration:none ;
+    padding: 20px;
+}
+
+main img{
+    text-align: center;
+}
+
+article{
+    background-color: #006957;
+    padding:15px 20px 30px 20px ;
+    width:599px ;
+    margin:20px ;
+}
+section{
+    display: flex;
+}
